@@ -1,0 +1,8 @@
+# All files can be found in VPN-nonVPN dataset (http://www.unb.ca/cic/datasets/vpn.html)
+
+1_Pcap
+--Audio_Vedio
+--Chat_Voip
+--Email
+--FTP
+--P2P
